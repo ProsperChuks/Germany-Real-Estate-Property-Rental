@@ -1,1 +1,1 @@
-# GermanyRE-Credit-Card-Approval-Prediction
+# Germany Real Estate: Credit Card Approval Prediction
