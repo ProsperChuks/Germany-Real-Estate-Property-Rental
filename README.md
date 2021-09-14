@@ -11,7 +11,7 @@ These are the columns in the dataset
 - newlyConst
 - balcony
 - picturecount
-pricetrend
+- pricetrend
 - telekomUploadSpeed
 - totalRent
 - yearConstructed
